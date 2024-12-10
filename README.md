@@ -1,7 +1,3 @@
-Here's a `README.md` file for your project that you can copy and paste into your repository:
-
----
-
 # ESP32 Access Point with HTTP Server
 
 This project demonstrates how to set up an ESP32 microcontroller as a Wi-Fi Access Point (AP) with an integrated HTTP server. Users can connect to the ESP32's network and interact through a web interface to view connected devices or restart the ESP32.
