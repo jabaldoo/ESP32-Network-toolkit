@@ -1,5 +1,6 @@
 #include <WiFi.h>
 #include <WebServer.h>
+#include <esp_wifi.h> // Include the ESP WiFi header
 
 // Access point credentials
 const char* ssid = "ESP32_Test_Network"; // Wi-Fi network name
